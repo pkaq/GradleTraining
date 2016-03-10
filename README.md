@@ -11,15 +11,17 @@
 
   本书适合所有程序猿阅读，你可以通过点击传送门进行在线阅读   
   在线阅读
+  
 ###  如何参与    
 　　star/fork本项目，加入Gradle中文用户组109752483
+  
 ###  书籍目录（临时）   
 
 * [1、Gradle介绍](README.md)
    * 1.1、Gradle是什么
    * 1.2、优势何在
    * 1.3、约束优于配置
-* [2、下载和安装](chapter1.md)
+* 2、下载和安装
    * 2.1、先决条件
    * 2.1、安装包结构
    * 2.3、环境变量配置
@@ -70,18 +72,25 @@
 * 18、遇到问题怎么办？
 * 附1、groovy
 * 附2、常用插件
-* 附3、版本管理
+* 附3、版本管理  
+
 ###  授权许可   
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">跟我学Gradle</span> 由 <a xmlns:cc="http://creativecommons.org/ns#" href="gradlecn.org" property="cc:attributionName" rel="cc:attributionURL">Shawn·PKAQ</a> 创作，采用 <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">知识共享 署名-非商业性使用-禁止演绎 4.0 国际 许可协议</a>进行许可。
+
 ###  贡献人员   
+
 ###  书籍校对   
+
 ###  关于我们   
 　　欢迎你加入Gradle中文用户组109752483或者给我发送邮件 PKAQ#MSN.COM
+  
 ###  捐助我们   
 　　很高兴我们能帮到您。无论金额多少，都足夠表达您这份心意。謝謝！
+  
 ### 捐赠方式   
 　　用 [手机支付宝](https://mobile.alipay.com/) 扫描二维码，捐款到支付宝账号 `PKAQ@MSN.COM
 <span class="badges">![掃描二維碼捐贈](./resources/img/qr-donate.jpg)</span>
+
 ### 捐赠记录
 
 |日期|施主|捐赠金额|寄语|
