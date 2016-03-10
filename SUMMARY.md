@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * [1、Gradle介绍](book/ch1/index.md)
-   * 1.1、[Gradle是什么](./book/ch1/1.1.Gradle是什么.md)
+   * 1.1、[Gradle是什么](book/ch1/1.1.Gradle是什么.md)
    * 1.2、[优势何在](./book/ch1/1.2.优势.md)
    * 1.3、[约束优于配置](./book/ch1/1.3.约束优于配置.md)
 * 2、下载和安装
