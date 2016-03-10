@@ -88,7 +88,8 @@
 　　很高兴我们能帮到您。无论金额多少，都足夠表达您这份心意。謝謝！
   
 ### 捐赠方式   
-　　用 [手机支付宝](https://mobile.alipay.com/) 扫描二维码，捐款到支付宝账号 `PKAQ@MSN.COM
+　　用 [手机支付宝](https://mobile.alipay.com/) 扫描二维码，捐款到支付宝账号 `PKAQ@MSN.COM   
+  
 <span class="badges">![掃描二維碼捐贈](./resources/img/qr-donate.jpg)</span>
 
 ### 捐赠记录
