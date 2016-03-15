@@ -4,7 +4,7 @@
 * [Gradle介绍](book/ch1/index.md)
    * [Gradle是什么](book/ch1/1.1.Gradle是什么.md)
    * [Gradle的优势](book/ch1/1.2.Gradle的优势.md)
-   * [约束优于配置](book/ch1/1.3.约束优于配置.md)
+   * [约定优于配置](book/ch1/1.3.约定优于配置.md)
 * 下载和安装
    * 先决条件
    * 安装包结构
