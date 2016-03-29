@@ -10,7 +10,7 @@
    * [安装包结构](book/ch2/index.md#one)
    * [下载](book/ch2/index.md#two)
    * [环境变量配置](book/ch2/index.md#three)
-   * [测试安装A](book/ch2/index.md#four)
+   * [测试安装](book/ch2/index.md#four)
    * [升级Gradle](book/ch2/index.md#five)
 * 快速入门
    * 项目结构
