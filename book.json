@@ -1,6 +1,7 @@
 {
     "plugins": [
-        "anchors-wrapper"
+        "anchors-wrapper",
+        "anchor-navigation"
     ],
     "pluginsConfig": {}
 }
