@@ -12,7 +12,7 @@
 #### <div name="one">.1.下载</div>
 　　从[Gralde官方网站](http://www.gradle.org/download)下载Gradle的最新发行包,下载后解压到任意目录即可（最好不要放在中文以及带有空格的目录中）
   
-### <a name="two">.2.安装包结构</a>
+### <div name="two">.2.安装包结构</div>
    * Gradle 可执行文件
    * 用户手册 (有 PDF 和 HTML 两种版本)
    * DSL 参考指南
@@ -20,7 +20,7 @@
    * 样例，包括用户手册中的例子，一些完整的构建样例和更加复杂的构建脚本
    * 源代码。仅供参考使用,如果你想要自己来编译 Gradle 你需要从源代码仓库中检出发行版本源码，具体请查看 Gradle 官方主页。
    
-### <a name="three">.3.配置环境变量</a>
+### <div name="three">.3.配置环境变量</div>
 　　运行gradle必须将GRADLE_HOME/bin加入到你的PATH环境变量中.  
   
 #### <div name="four">.4.测试安装</div>
