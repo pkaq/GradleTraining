@@ -9,7 +9,7 @@
    * [先决条件](book/ch2/index.md#zero)
    * [安装包结构](book/ch2/index.md#one)
    * [下载](book/ch2/index.md#three)
-   * [环境变量配置](book/ch2/index.md#3)
+   * [环境变量配置](book/ch2/index.md#four)
    * [测试安装](book/ch2/index.md#four)
    * [升级Gradle](book/ch2/index.md#5)
 * 快速入门
