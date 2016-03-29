@@ -23,7 +23,7 @@
 ### <a name="three">.3.配置环境变量</a>
 　　运行gradle必须将GRADLE_HOME/bin加入到你的PATH环境变量中.  
   
-#### <div name="four">.4.测试安装</a>
+#### <div name="four">.4.测试安装</div>
 
   运行如下命令来检查是否安装成功.该命令会显示当前的JVM版本和Gradle版本.
 ```groovy
