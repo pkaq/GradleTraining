@@ -9,7 +9,7 @@
 　　1.5以上版本的JDK,Gradle会采用你环境变量中设置的JDK目录(可以用java -version进行检查),你需要配置环境变量 JAVA_HOME 并将它指向你的JDK安装目录.
 
 　　p.s:Gradle自带了Groovy库,所以无需事先安装Grvoovy,所有已经安装的Grvooy也将被Gradle忽略.
-#### <a name="1">.1.下载</a>
+#### <a name="one">.1.下载</a>
 　　从[Gralde官方网站](http://www.gradle.org/download)下载Gradle的最新发行包,下载后解压到任意目录即可（最好不要放在中文以及带有空格的目录中）
   
 ### <a name="two">.2.安装包结构</a>
