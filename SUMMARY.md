@@ -7,7 +7,7 @@
    * [约定优于配置](book/ch1/1.3.约定优于配置.md)
 * [下载和安装](book/ch2/index.md)
    * [先决条件](book/ch2/index.md#zero)
-   * [安装包结构](book/ch2/index.md#1)
+   * [安装包结构](book/ch2/index.md#one)
    * [下载](book/ch2/index.md#2)
    * [环境变量配置](book/ch2/index.md#3)
    * [测试安装](book/ch2/index.md#four)
