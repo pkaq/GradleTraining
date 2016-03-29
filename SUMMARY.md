@@ -6,7 +6,7 @@
    * [Gradle的优势](book/ch1/1.2.Gradle的优势.md)
    * [约定优于配置](book/ch1/1.3.约定优于配置.md)
 * [下载和安装](book/ch2/index.md)
-   * [先决条件](book/ch2/index.md#a)
+   * [先决条件](book/ch2/index.md#one)
    * [安装包结构](book/ch2/index.md#1)
    * [下载](book/ch2/index.md#2)
    * [环境变量配置](book/ch2/index.md#3)
