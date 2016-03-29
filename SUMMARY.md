@@ -6,12 +6,12 @@
    * [Gradle的优势](book/ch1/1.2.Gradle的优势.md)
    * [约定优于配置](book/ch1/1.3.约定优于配置.md)
 * [下载和安装](book/ch2/index.md)
-   * [先决条件](book/ch2/index.md#zero)
-   * [安装包结构](book/ch2/index.md#one)
-   * [下载](book/ch2/index.md#two)
-   * [环境变量配置](book/ch2/index.md#three)
-   * [测试安装](book/ch2/index.md#four)
-   * [升级Gradle](book/ch2/index.md#five)
+   * [先决条件](book/ch2/先决条件.md)
+   * [安装包结构](book/ch2/安装包结构.md)
+   * [下载](book/ch2/下载.md)
+   * [环境变量配置](book/ch2/环境变量配置.md)
+   * [测试安装](book/ch2/测试安装.md)
+   * [升级Gradle](book/ch2/升级Gradle.md)
 * 快速入门
    * 项目结构
    * 脚本结构
