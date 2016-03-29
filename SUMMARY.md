@@ -11,7 +11,7 @@
    * [下载](book/ch2/下载.md)
    * [环境变量配置](book/ch2/环境变量配置.md)
    * [测试安装](book/ch2/测试安装.md)
-   * [升级Gradle](book/ch2/升级Gradle.md)
+   * [升级Gradle](book/ch2/Gradle升级.md)
 * 快速入门
    * 项目结构
    * 脚本结构
