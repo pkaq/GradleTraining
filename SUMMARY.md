@@ -59,7 +59,9 @@
 * IDE集成
    * 地球不会爆炸
    * 与eclipse集成
-   * 与idea集成
+   * [与idea集成](book/ch14/1.与IDEA集成.md)
+* 团队协作
+	* 使用Gradle wrapper 
 * 与Jenkins搭配使用
 * 关于中文编码
 * 遇到问题怎么办？
