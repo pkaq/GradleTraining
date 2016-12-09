@@ -59,7 +59,7 @@
 * IDE集成
    * 地球不会爆炸
    * [与eclipse集成](book/ch14/eclipse.md)
-   * [与idea集成](book/ch14/1.与IDEA集成.md)
+   * [与idea集成](book/ch14/idea.md)
 * 团队协作
 	* 使用Gradle wrapper 
 * 与Jenkins搭配使用
