@@ -1,6 +1,5 @@
-title: Eclipse中Gradle插件的使用
-comments: true
----
+## Eclipse中Gradle插件的使用
+
 ### 安装
 
 　　无论你使用的是 eclipse/sts/myeclipse 还是任何eclipse的变种,可以通过点击`Help->eclipse marketplace`去插件市场搜索buildship然后点击`install`进行安装,此过程完全傻瓜操作,不赘述.   
