@@ -41,8 +41,12 @@
    * 代码混淆
    * 包含和排除
    * 如何发布
-* 多项目构建
-   * 多项目（模块）结构
+* [多项目构建](book/ch8/multiproject.md)
+   * [多模块项目结构](book/ch8/structure.md)
+   * [settings文件](book/ch8/settingsscript.md)
+   * [build文件](book/ch8/buildscript.md)
+   * [分离化配置](book/ch8/separate.md)
+   * [水平布局和分层布局](book/ch8/flatandhierarchical.md)
 * 质量保证
    * 单元测试
    * findbugs
