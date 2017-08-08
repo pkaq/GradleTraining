@@ -28,6 +28,10 @@ Idea本身已经集成了Gradle插件,你可以在File | Settings | Build, Execu
 | Service directory path  | 修改Gradle的默认缓存目录,该项也可以通过添加GRADLE_USER_HOME环境变量进行设置,默认值是 «USER_HOME»/.gradle文件夹,更多设置方式参考 [如何修改Gradle的缓存目录](https://github.com/pkaq/GradleSide/tree/master/12-gradleCacheHome) |
 | Gradle VM options - | 设置jvm参数,可以采用空格分隔不同的参数设置 比如 " -client -ea -Xmx1024m" 也可以通过Gradle的-D参数对相关参数进行设置 |
 
+**代理配置**
+默认情况下当你右键执行main、单元测试或者把项目添加到tomcat等运行的时候，IDEA并不会采用Gradle去编译构建你的项目，此时就需要勾选图中的选项，把build委托给Gradle就可以拉。
+![](../../resources/img/ch14/runner.png)
+
 #### 应用
 看到你的IDEA右侧竖向的标签页,找到gradle点开可以在这里看到你的项目以及相应任务,双击或者右键可以执行相应任务.
 如果未开启auto import选项,可以点击菜单上方的蓝色圈圈 进行手动同步
