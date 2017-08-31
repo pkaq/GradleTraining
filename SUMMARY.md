@@ -40,9 +40,10 @@
    * 任务的操作
    * 任务的执行和跳过
 * [打包](book/ch7/index.md)
-   * 多环境打包
-   		* [通过加载环境资源文件进行多环境构建](book/ch7/envpackage.md)
-   		* [利用ConfigSlurper进行多环境构建](book/ch7/envconfig.md)
+*  * [打可执行jar包](book/ch7/fatjar.md)
+   * [多环境打包]()
+   	* [通过加载环境资源文件进行多环境构建](book/ch7/envpackage.md)
+   	* [利用ConfigSlurper进行多环境构建](book/ch7/envconfig.md)
    * 增量构建
    * 代码混淆
    * 包含和排除
