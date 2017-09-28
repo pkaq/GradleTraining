@@ -1,0 +1,84 @@
+# Summary
+
+- [关于本书](README.md)
+- [Gradle介绍](book/ch1/index.md)
+   - [Gradle是什么](book/ch1/1.1.Gradle是什么.md)
+   - [Gradle的优势](book/ch1/1.2.Gradle的优势.md)
+   - [约定优于配置](book/ch1/1.3.约定优于配置.md)
+- [下载和安装](book/ch2/index.md)
+   - [先决条件](book/ch2/先决条件.md)
+   - [安装包结构](book/ch2/安装包结构.md)
+   - [下载](book/ch2/下载.md)
+   - [环境变量配置](book/ch2/环境变量配置.md)
+   - [测试安装](book/ch2/测试安装.md)
+   - [升级Gradle](book/ch2/Gradle升级.md)
+- [快速入门](book/ch3/index.md)
+   - [项目结构](book/ch3/1.项目结构.md)
+   - [脚本结构](book/ch3/2.脚本结构.md)
+   - [第一个脚本](book/ch3/3.第一个脚本.md)
+   - [打包和运行](book/ch3/4.打包和运行.md)
+- [仓库](book/ch4/index.md)
+   - [什么是仓库](book/ch4/0.仓库的概念.md)
+   - [为什么要用仓库](book/ch4/1.为什么要用仓库.md)
+   - [仓库的分类](book/ch4/2.仓库的分类.md)   
+   - [私服nexus的安装与配置](book/ch4/3.nexus的安装与配置.md)  
+- [依赖(构件)](book/ch5/index.md)
+   - [什么是依赖管理](book/ch5/0.什么是依赖管理.md)
+   - [依赖的坐标和范围](book/ch5/1.依赖的坐标和范围.md)
+   - [依赖的分类与检查](book/ch5/2.依赖的分类.md)
+   - [依赖的传递与排除](book/ch5/3.依赖版本管理(传递.排除.强制版本.动态版本.).md)
+   - [依赖的更新与缓存](book/ch5/4.依赖的更新与缓存.md)
+   - [依赖的上传与发布](book/ch5/5.构件的上传与发布.md)
+   - [查看依赖报告和冲突的解决](book/ch5/6.依赖冲突的解决.md)   
+- [构建过程](book/ch5/index.md)
+   - [构建的生命周期](book/ch6/构建的生命周期.md)   
+- 任务
+   - 运行一个任务
+   - 任务的生命周期
+   - 任务的创建
+   - 依赖型任务
+   - 任务的操作
+   - 任务的执行和跳过
+- [打包](book/ch7/index.md)
+-  - [打可执行jar包](book/ch7/fatjar.md)
+   - [多环境打包]()
+   	- [通过加载环境资源文件进行多环境构建](book/ch7/envpackage.md)
+   	- [利用ConfigSlurper进行多环境构建](book/ch7/envconfig.md)
+   - 增量构建
+   - 代码混淆
+   - 包含和排除
+- [多项目构建](book/ch8/multiproject.md)
+   - [多模块项目结构](book/ch8/structure.md)
+   - [settings文件](book/ch8/settingsscript.md)
+   - [build文件](book/ch8/buildscript.md)
+   - [分离化配置](book/ch8/separate.md)
+   - [水平布局和分层布局](book/ch8/flatandhierarchical.md)
+- 质量保证
+   - 单元测试
+   - findbugs
+   - checkstyle
+- 插件
+   - 如何使用插件
+   - 插件编写
+- 参数化配置
+- 实例解析
+   - Spring多项目脚本的解读
+   - 安卓多渠道打包示例解读
+- 效率优化
+   - 使用Gradle daemon
+- IDE集成
+   - 地球不会爆炸
+   - [与eclipse集成](book/ch14/eclipse.md)
+   - [与idea集成](book/ch14/idea.md)
+- 团队协作
+	- 使用Gradle wrapper 
+- 与Jenkins搭配使用
+- 关于中文编码
+- 遇到问题怎么办？
+   - [提问技巧](book/ch17/0.提问的技巧.md)
+   - 在哪寻求帮助
+- 附1、groovy
+- 附2、常用插件
+- 附3、版本管理
+- 附4、日志级别
+
